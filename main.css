@@ -34,7 +34,7 @@ themevarsp
     --dark-secondary: #050505;
     --dark-secondary-alt: #080808;
     --dark-bright: #0b0b0b;
-    --roundmoled-background: #142339;
+    --roundmoled-background: #2b1439;
     --popout-activeborders: #1f1f1f;
 }
 
@@ -305,7 +305,7 @@ box-shadow: rgba(255, 44, 44, .3) 0px 5px 15px;
 .lookFilled-1Gx00P.colorGreen-29iAKY
 {
         background-color:var(--brand-experiment);
-	box-shadow: rgba(44, 139, 255, .23) 0px 5px 15px;
+	box-shadow: rgba(195, 44, 255, .23) 0px 5px 15px;
 }
 
 .lookFilled-1Gx00P.colorGreen-29iAKY:hover
@@ -539,7 +539,7 @@ settingsp
 }
 
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover{
-    box-shadow: rgba(44, 139, 255, .3) 0px 5px 15px;
+    box-shadow: rgba(164, 44, 255, .3) 0px 5px 15px;
     transition:250ms;
 }
 
@@ -700,7 +700,7 @@ settingsp
     
 }
 .theme-dark .lookOutlined-3sRXeN.colorPrimary-3b3xI6:hover{
-    box-shadow: rgba(44, 139, 255, .3) 0px 5px 15px;
+    box-shadow: rgba(135, 44, 255, .3) 0px 5px 15px;
     transition: .3s;
 }
 
@@ -720,7 +720,7 @@ settingsp
     
 }
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover{
-box-shadow: rgba(44, 139, 255, .3) 0px 5px 15px;
+box-shadow: rgba(135, 44, 255, .3) 0px 5px 15px;
 }
 
 .theme-dark .tierBody-1d3UiS{
@@ -802,7 +802,7 @@ transform:scale(1.8) !important;
     background-color:#1f95ca;
     border-radius:10px;
     transition:250ms;
-    box-shadow: rgba(44, 164, 255, .17) 0px 5px 15px;
+    box-shadow: rgba(114, 44, 255, .17) 0px 5px 15px;
 }
 
 #status-picker-dnd:hover,
@@ -868,7 +868,7 @@ margin-top:3px;
 
 /* Channel background change */
 .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ{ 
-        background: linear-gradient(90deg, rgb(52, 70, 119) 0%, rgba(60, 105, 172, 0.753) 54%, rgba(0, 191, 255, 0.212) 100%);
+        background: linear-gradient(90deg, rgb(74, 52, 119) 0%, rgba(133, 60, 172, 0.753) 54%, rgba(166, 0, 255, 0.212) 100%);
         transform:scale(1.02);
         border-radius:8px;
         margin-left:4px;
@@ -888,7 +888,7 @@ margin-top:3px;
 /* Unread pill */
 .unread-36eUEm{
     background-color:var(--brand-experiment);
-    box-shadow: rgb(44, 139, 255) 0px 5px 15px;
+    box-shadow: rgb(160, 44, 255) 0px 5px 15px;
     height: 10px;
     width: 6px;
 }
@@ -928,7 +928,7 @@ margin-top:3px;
 #message-save-image:hover,
 #message-save-image.focused-3qFvc8
 {
-    background:#5a79df;
+    background:#a15adf;
     border-radius:7px;
     transform:scale(1.02);
     margin-right:2px;
@@ -978,7 +978,7 @@ margin-top:3px;
 #message-tts.focused-3qFvc8,
 #user-context-change-nickname:hover,
 #user-context-change-nickname.focused-3qFvc8{
-    background:#27436d;
+    background:#50276d;
     border-radius:7px;
     transform:scale(1.02);
     margin-right:2px;
@@ -1024,7 +1024,7 @@ margin-top:3px;
 #user-context-invite-to-server.focused-3qFvc8,
 #channel-context-invite-people:hover,
 #channel-context-invite-people.focused-3qFvc8{
-    background:#5a8fdf;
+    background:#a35adf;
     border-radius:7px;
     color:rgb(19, 19, 19);
     transform:scale(1.02);
@@ -1066,7 +1066,7 @@ margin-top:3px;
 #user-context-mute.focused-3qFvc8,
 #user-context-deafen:hover,
 #user-context-deafen.focused-3qFvc8{
-    background:#27436d;
+    background:#50276d;
     border-radius:7px;
     transform:scale(1.02);
     margin-right:2px;
@@ -1134,7 +1134,7 @@ margin-top:3px;
 #guild-header-popout-privacy.focused-3qFvc8,
 #guild-context-mark-guild-read:hover,
 #guild-context-mark-guild-read.focused-3qFvc8{
-    background:#5a79df;
+    background:#a15adf;
     border-radius:7px;
     transform:scale(1.02);
     margin-right:2px;
@@ -1199,7 +1199,7 @@ margin-top:3px;
     background-color:var(--dark-secondary);
     border-radius:15px;
     bottom:40px;
-    box-shadow: rgba(44, 139, 255, .21) 0px 5px 15px;
+    box-shadow: rgba(118, 44, 255, .21) 0px 5px 15px;
     border:solid var(--brand-experiment);
 }
 
@@ -1288,7 +1288,7 @@ margin-top:3px;
 
 .lookFilled-1Gx00P.colorGreen-29iAKY:hover{
     background-color:var(--brand-experiment);
-    box-shadow: rgba(44, 139, 255, .47) 0px 5px 15px;
+    box-shadow: rgba(174, 44, 255, .47) 0px 5px 15px;
 }
 
 .note-3M15gE textarea{
@@ -1594,7 +1594,7 @@ border-bottom-color: var(--popout-activeborders);
 
 .button-3Vyz67:hover{
     background:var(--brand-experiment);
-    box-shadow: rgba(44, 139, 255, .3) 0px 5px 15px;
+    box-shadow: rgba(157, 44, 255, .3) 0px 5px 15px;
 }
 
 .background-L8lGH6{
@@ -1624,7 +1624,7 @@ border-bottom-color: var(--popout-activeborders);
   height: 80px;
   background: transparent;
   border:solid var(--brand-experiment);
-  box-shadow: rgba(44, 139, 255, .6) 0px 5px 15px;
+  box-shadow: rgba(104, 44, 255, .6) 0px 5px 15px;
   border-radius:250px;
 }
 
@@ -1902,7 +1902,7 @@ dcvarsp
     --background-secondary: #18191D; /* guild folder border background */
     --background-secondary-alt: var(--dark-primary);; /* change it and see for yourself */
     --background-primary: var(--dark-primary);; /* primary background color, full amoled black  */
-    --channeltextarea-background: #070b10; /* color of your chat bar */
+    --channeltextarea-background: #0b0710; /* color of your chat bar */
     --background-accent: var(--brand-experiment); /* discords accent color (default) */
     --background-message-hover: transparent;
     --background-modifier-hover: #36559138;
